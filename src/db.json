@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "title": "Убраться дома",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "а",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
