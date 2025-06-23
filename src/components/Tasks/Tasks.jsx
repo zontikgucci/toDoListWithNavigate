@@ -1,5 +1,5 @@
 import { useState, useRef, useCallback } from 'react';
-import { Routes, Route, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 import styles from './Tasks.module.css';
 import { debounce } from '../../utils';

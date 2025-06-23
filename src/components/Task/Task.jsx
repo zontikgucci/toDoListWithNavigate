@@ -19,7 +19,7 @@ export const Task = () => {
         return rawResponse.json();
       })
       .then((response) => seTask(response));
-  }, [id]);
+  }, [id, navigate]);
 
   if (!task) {
     return null;
